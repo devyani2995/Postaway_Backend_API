@@ -1,0 +1,9 @@
+{"level":"error","message":"Cannot read properties of undefined (reading 'filename')","service":"error-logging","timestamp":"2024-02-20T10:19:05.737Z","url":"/api/post/"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'filename')","service":"error-logging","timestamp":"2024-02-20T10:19:27.020Z","url":"/api/post/"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'filename')","service":"error-logging","timestamp":"2024-02-20T10:21:34.485Z","url":"/api/post/"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'filename')","service":"error-logging","timestamp":"2024-02-20T10:22:20.474Z","url":"/api/post/"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'imageUrl')","service":"error-logging","timestamp":"2024-02-20T10:22:42.583Z","url":"/api/post/"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'imageUrl')","service":"error-logging","timestamp":"2024-02-20T10:23:54.834Z","url":"/api/post/"}
+{"level":"error","message":"ENOENT: no such file or directory, open 'D:\\postaway\\public\\images\\Screenshot (7).png'","service":"error-logging","timestamp":"2024-02-20T10:24:43.992Z","url":"/api/post/"}
+{"level":"error","message":"ENOENT: no such file or directory, open 'D:\\postaway\\public\\images\\Screenshot (7).png'","service":"error-logging","timestamp":"2024-02-20T10:25:27.530Z","url":"/api/post/"}
+{"level":"error","message":"ENOENT: no such file or directory, open 'D:\\postaway\\public\\images\\quan-tran-BbPrbSZYQ_E-unsplash.jpg'","service":"error-logging","timestamp":"2024-02-20T10:46:58.414Z","url":"/api/post/"}
